@@ -10,6 +10,7 @@ public class SelDemo {
 //		FirefoxDriver driver = new FirefoxDriver();
 //		EdgeDriver driver = new EdgeDriver();
 		driver.get("https://www.google.com");
+		
 
 	}
 

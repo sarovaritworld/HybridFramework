@@ -1,0 +1,10 @@
+{
+	"name": "sam",
+	"age": "18",
+	"grade": "12",
+    "email": "sam@gmail.com",
+	"courses": [
+	  "C",
+	  "C++"
+	],
+}
